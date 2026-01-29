@@ -2,7 +2,7 @@
 
 Pick up where we left off on Tuesday, except with an R project.
 
-We already have: `data/raw/`, `data/processed`, `src/`, and `output/` directories. 
+We already have: `data/raw/`, `data/processed`, `src/`, and `output/` directories.
 > Note that even though these directories are empty, I've added them to the repository using by placing an empty file named `.gitkeep` in them.
 
 We download our data using
